@@ -1,4 +1,4 @@
-### Hola, im Acla putra! 👋
+### Hola, i'm Acla putra! 👋
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AclaPutra&show_icons=true&theme=tokyonight)
 
 - 🔭 I’m currently studying on University of raharja
