@@ -1,4 +1,4 @@
-### Hola, i'm Acla Putra! 👋
+### <h1 align="center">Hola, i'm Acla Putra! 👋</h1>
 #
 - 🔭 I’m currently studying on University of raharja 
 - 🌱 I’m currently learning <strong>React</strong> & <strong>Laravel</strong>
