@@ -1,5 +1,5 @@
 ### <h1 align="center">Hola, i'm Acla Putra!<span>👋</span></h1><p align="center">My Portofolio: ...</p>
-- 🔭 I’m currently studying on University of raharja 
+- 🔭 I’m currently studying on University of Raharja 
 - 🌱 I’m currently learning <strong>React</strong> & <strong>Laravel</strong>
 - 👯 I’m looking to collaborate on Big project
 - ![](https://visitor-badge.laobi.icu/badge?page_id=AclaPutra.AclaPutra)
