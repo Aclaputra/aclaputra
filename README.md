@@ -1,4 +1,4 @@
-### <h1 align="center">Hola, i'm Acla Putra!<span>👋</span></h1><p align="center">My Portofolio: ...</p>
+### <h1 align="center">Hello, i'm Acla Putra!<span>👋</span></h1><p align="center">My Portofolio: ...</p>
 - 🔭 I’m currently studying on University of Raharja 
 - 🌱 I’m currently learning <strong>React</strong> & <strong>Laravel</strong>
 - 👯 I’m looking to collaborate on Big project
