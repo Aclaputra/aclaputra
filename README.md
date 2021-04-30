@@ -1,11 +1,9 @@
-### <h1 align="center">Hello, i'm Acla Putra!<span>👋</span></h1><p align="center">My Portofolio: soon~</p>
-- 🔭 I’m currently studying on University of Raharja 
-- 🌱 I’m currently learning <strong>React.js</strong> & <strong>Laravel 8</strong>
-- 👯 I’m looking to collaborate on Big Projects
-- ![](https://visitor-badge.laobi.icu/badge?page_id=AclaPutra.AclaPutra)
+<h1 align="center">Hello, i'm Acla Putra!<span>👋</span></h1>
+I'm Acla Putra from Tangerang, a college student passionates about programming and loves building awesome projects. Any Questions? Let's get in touch [here](https://Aclaputra.github.io/contact/).
 
-![Acla's GitHub stats](https://github-readme-stats.vercel.app/api?username=AclaPutra&theme=dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AclaPutra&layout=compact&theme=dark)](https://github.com/AclaPutra)
+<div align = 'center'>
 
+<!-- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Aclaputra&langs_count=8" alt = "Top Langs"> -->
+<img src = "https://metrics.lecoq.io/Aclaputra?template=classic&config.timezone=Asia%2FJakarta" alt = "Metrics">
 
-
+</div>
