@@ -1,4 +1,4 @@
-<h1 align="center">Hello, i'm Acla Putra!<span>👋</span></h1>
+<h1 align="center">Hi there, i'm Acla Putra!<span>👋</span></h1>
 <!-- I'm Acla Putra from Tangerang, a college student passionates about programming and loves building awesome projects. Any Questions? Let's get in touch [here](https://Aclaputra.github.io/contact/). -->
 
 <div align = 'center'>
