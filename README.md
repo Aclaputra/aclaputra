@@ -4,7 +4,7 @@ I'm Acla Putra from Tangerang, a college student passionates about programming a
 <div align = 'center'>
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Aclaputra&langs_count=8" alt = "Top Langs">
-  <div>
+  <div float = 'right'>
       <ul>
         <li>🔭 I’m currently studying on University of Raharja</li>
         <li>🌱 I’m currently learning <strong>React.js</strong> & <strong>Laravel 8</strong></li>
