@@ -13,5 +13,5 @@ I'm Acla from Tangerang. a college student passionates about programming and lov
   
 <!--   <img src = "https://metrics.lecoq.io/Aclaputra?template=classic&config.timezone=Asia%2FJakarta" alt = "Metrics"> -->
 
-<!-- </div> -->
+</div>
 
