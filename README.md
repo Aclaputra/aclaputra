@@ -1,11 +1,11 @@
 <h1 align="left">Hi, Nice to Meet You 👋👔</h1>
 
 <!-- I'm Acla from Tangerang, Indonesia. a college student passionates about programming <br> and loves building awesome projects. Any Questions? Let's get in touch here  -->
-I'm Acla from Tangerang, Indonesia. An Active Final year Information Technology Bachelor's Student, Focused in Software Engineering at University of Raharja. Proficient in HTML5, CSS3, JavaScript(ES6), PHP 8, React Native, Laravel 8. Strong Problem Solving, Software Development, Leadership & My Habit is learn new things to always keep updated about Technologies that out to Come! 
+<!-- I'm Acla from Tangerang, Indonesia. An Active Final year Information Technology Bachelor's Student, Focused in Software Engineering at University of Raharja. Proficient in HTML5, CSS3, JavaScript(ES6), PHP 8, React Native, Laravel 8. Strong Problem Solving, Software Development, Leadership & My Habit is learn new things to always keep updated about Technologies that out to Come! 
 
-I'm really active in my github like almost everyday, sometimes i do open sourcing & competitive programming kind of stuff too. now i'm in contributing building Startups both in Indonesia and United States.
+I'm really active in my github like almost everyday, sometimes i do open sourcing & competitive programming kind of stuff too. now i'm in contributing building Startups both in Indonesia and United States. -->
 
-Any Questions? Let's get in touch here [acla.my.id]( https://inspiring-agnesi-1524be.netlify.app/ )
+<!-- Any Questions? Let's get in touch here [acla.my.id]( https://inspiring-agnesi-1524be.netlify.app/ ) -->
 
 <!-- ![Metrics](https://metrics.lecoq.io/Aclaputra?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&isocalendar=1&isocalendar.duration=half-year&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&achievements.ignored=forker%2C%20deployer%2C%20reviewer%2C%20maintainer%2C%20contributor%2C%20influencer%2C%20stargazer%2C%20member%2C%20follower%2C%20reviewer&config.timezone=Asia%2FJakarta) -->
 ## Connect with me:
