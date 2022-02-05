@@ -15,7 +15,7 @@ I'm really active in my github like almost everyday, sometimes I do open sourcin
 <!-- ## Let's Connect: -->
 - Learn to code: [CodingTopia.com](https://codingtopia.com)
 - Youtube: [Acla Developer](https://www.youtube.com/channel/UCLWJOKoVs1WF622T_XEZzig)
-- Others: [Hackerrank](https://www.hackerrank.com/muhamadacla22), [StackOverflow](https://stackoverflow.com/users/14654387/acla-putra), [CodeChef](https://www.codechef.com/users/aclaputra), [Codeforces](https://codeforces.com/profile/aclaputra)
+- [Hackerrank](https://www.hackerrank.com/muhamadacla22), [StackOverflow](https://stackoverflow.com/users/14654387/acla-putra), [CodeChef](https://www.codechef.com/users/aclaputra), [Codeforces](https://codeforces.com/profile/aclaputra)
 - Any Questions? Let's get in touch here [acla.my.id]( https://inspiring-agnesi-1524be.netlify.app/ )
   
 <img src="https://komarev.com/ghpvc/?username=Aclaputra&style=flat-square&color=blue" alt=""/>
