@@ -13,8 +13,8 @@ I'm really active in my github like almost everyday, sometimes I do open sourcin
 
 
 <!-- ## Let's Connect: -->
-- Learn to code: [CodingTopia.com](https://codingtopia.com)
-- Youtube: [Acla Developer](https://www.youtube.com/channel/UCLWJOKoVs1WF622T_XEZzig)
+- Learn to code : [CodingTopia.com](https://codingtopia.com)
+- Youtube : [Acla Developer](https://www.youtube.com/channel/UCLWJOKoVs1WF622T_XEZzig)
 - [Hacker Rank](https://www.hackerrank.com/muhamadacla22), [Stack Overflow](https://stackoverflow.com/users/14654387/acla-putra), [Code Chef](https://www.codechef.com/users/aclaputra), [Code Forces](https://codeforces.com/profile/aclaputra)
 - Any Questions? Let's get in touch here [acla.my.id]( https://inspiring-agnesi-1524be.netlify.app/ )
   
