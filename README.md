@@ -18,7 +18,7 @@ I'm really active in my github like almost everyday, sometimes I do open sourcin
 - [Hacker Rank](https://www.hackerrank.com/aclaputra), [Stack Overflow](https://stackoverflow.com/users/14654387/acla-putra), [Code Chef](https://www.codechef.com/users/aclaputra), [Code Forces](https://codeforces.com/profile/aclaputra)
 - Any Questions? Let's get in touch here [acla.my.id]( https://inspiring-agnesi-1524be.netlify.app/ )
   
-<img src="https://komarev.com/ghpvc/?username=Aclaputra&style=flat-square&color=blue" alt="visitor-counter"/>
+<img src="https://komarev.com/ghpvc/?username=Aclaputra&style=flat-square&color=blue" alt="visitor-counters"/>
 <!-- <div align=""> -->
 <!--   <img src = "https://metrics.lecoq.io/Aclaputra?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&isocalendar=1&isocalendar.duration=half-year&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&achievements.ignored=forker%2C%20deployer%2C%20reviewer%2C%20maintainer%2C%20contributor%2C%20influencer%2C%20stargazer%2C%20member%2C%20follower%2C%20reviewer&config.timezone=Asia%2FJakarta" alt="Achievements"> -->
   
