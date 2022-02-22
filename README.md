@@ -27,3 +27,4 @@ I'm often active in my github like almost everyday, sometimes I do Open sourcing
 <!--   <img src = "https://metrics.lecoq.io/Aclaputra?template=classic&config.timezone=Asia%2FJakarta" alt = "Metrics"> -->
 <!-- </div> -->
 
+<hr>
