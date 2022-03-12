@@ -10,7 +10,7 @@ I'm often active in my github like almost everyday, sometimes I do Open sourcing
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Aclaputra&langs_count=10&theme=radical&hide=html" alt = "Top Langs"> -->
 
 
-<!-- ## Let's Connect: -->
+## Let's Connect:
 - Learn to code : [CodingTopia.com](https://codingtopia.com)
 - Youtube : [Acla Developer](https://www.youtube.com/channel/UCLWJOKoVs1WF622T_XEZzig)
 - [Hacker Rank](https://www.hackerrank.com/aclaputra), [Hacker Earth](https://www.hackerearth.com/@aclalead), [Stack Overflow](https://stackoverflow.com/users/14654387/acla-putra), [Code Chef](https://www.codechef.com/users/aclaputra), [Code Forces](https://codeforces.com/profile/aclaputra)
