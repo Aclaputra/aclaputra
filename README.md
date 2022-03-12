@@ -1,7 +1,7 @@
 <h1 align="left">Hi, Nice to Meet You 👋💻</h1>
 
 <!-- I'm Acla from Tangerang, Indonesia. a college student passionates about programming <br> and loves building awesome projects. Any Questions? Let's get in touch here  -->
-I'm Acla from Tangerang, Indonesia. An Active Final year Information Technology Bachelor's student, focused in Software Engineering at University of Raharja. Proficient in HTML5, CSS3, JavaScript(ES6), PHP, NodeJS, React. Strong Problem Solving, Creative, Leadership & My Habit is learn new things to always keep updated about Technologies that out to Come! 
+I'm Acla from Tangerang, Indonesia. An Active Final year Information Technology Bachelor's student, focused in Software Engineering at University of Raharja. Proficient in HTML5, CSS3, JavaScript(ES6), NodeJS, Java, React. Strong Problem Solving, Creative, Leadership & My Habit is learn new things to always keep updated about Technologies that out to Come! 
 
 I'm often active in my github like almost everyday, sometimes I do Open sourcing & Competitive programming kind of stuff too. now i'm in contributing building Startups both in Indonesia and United States.
 
