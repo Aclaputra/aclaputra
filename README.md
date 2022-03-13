@@ -13,7 +13,7 @@
 - [Hacker Rank](https://www.hackerrank.com/aclaputra), [Hacker Earth](https://www.hackerearth.com/@aclalead), [Stack Overflow](https://stackoverflow.com/users/14654387/acla-putra), [Code Chef](https://www.codechef.com/users/aclaputra), [Code Forces](https://codeforces.com/profile/aclaputra)
 - Any Questions? Let's get in touch here [acla.my.id]( https://inspiring-agnesi-1524be.netlify.app/ )
 
-<hr>
+<!-- <hr> -->
 
 <!-- I'm often active in my github like almost everyday, I like do Open sourcing, Competitive programming, Data Structures & Algorithms kind of stuff. now i'm in contributing building Startups both in Indonesia and United States. -->
   
