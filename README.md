@@ -8,10 +8,10 @@
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Aclaputra&langs_count=10&theme=radical&hide=html" alt = "Top Langs"> -->
 
 <!-- ## Let's Connect: -->
-- Learn to code : [CodingTopia.com](https://codingtopia.com)
-- Youtube : [Acla Developer](https://www.youtube.com/channel/UCLWJOKoVs1WF622T_XEZzig)
-- Competitive Programming Accounts : [Hacker Rank](https://www.hackerrank.com/aclaputra), [Hacker Earth](https://www.hackerearth.com/@aclalead), [Stack Overflow](https://stackoverflow.com/users/14654387/acla-putra), [Code Chef](https://www.codechef.com/users/aclaputra), [Code Forces](https://codeforces.com/profile/aclaputra)
-- Any Questions? Let's get in touch here [acla.my.id]( https://inspiring-agnesi-1524be.netlify.app/ )
+- In Production👷‍♂️: [CodingTopia.com](https://codingtopia.com)
+- Youtube 🎥: [Acla Developer](https://www.youtube.com/channel/UCLWJOKoVs1WF622T_XEZzig)
+- Competitive Programming Accounts 🧑‍💻: [Hacker Rank](https://www.hackerrank.com/aclaputra), [Hacker Earth](https://www.hackerearth.com/@aclalead), [Stack Overflow](https://stackoverflow.com/users/14654387/acla-putra), [Code Chef](https://www.codechef.com/users/aclaputra), [Code Forces](https://codeforces.com/profile/aclaputra)
+- Any Questions? Let's get in touch here 👀 [acla.my.id]( https://inspiring-agnesi-1524be.netlify.app/ )
 
 <!-- <hr> -->
 
