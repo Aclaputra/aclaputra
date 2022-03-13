@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=Aclaputra&style=flat-square&color=blue" alt="visitor-counters"/>
+<!-- <img src="https://komarev.com/ghpvc/?username=Aclaputra&style=flat-square&color=blue" alt="visitor-counters"/> -->
 <h1 align="center">Hi, Nice to Meet You 👋💻</h1>
 
 <!-- I'm Acla from Tangerang, Indonesia. a college student passionates about programming <br> and loves building awesome projects. Any Questions? Let's get in touch here  -->
