@@ -16,7 +16,7 @@
 
 <!-- <hr> -->
 
-<!-- I'm often active in my github like almost everyday, I like do Open sourcing, Competitive programming, Data Structures & Algorithms kind of stuff. now i'm in contributing building Startups both in Indonesia and United States. -->
+<!-- Usually I'm active in my github, I like do Open sourcing, Competitive programming, Data Structures & Algorithms kind of stuff. now i'm in contributing building Startups both in Indonesia and United States. -->
   
 
 <!-- <div align=""> -->
