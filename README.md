@@ -15,7 +15,6 @@
 - Any Questions? Let's get in touch here 👀 [acla.my.id]( https://inspiring-agnesi-1524be.netlify.app/)
 
 <!-- <hr> -->
-
 <!-- Usually I'm active in my github, I like do Open sourcing, Competitive programming, Data Structures & Algorithms kind of stuff. now i'm in contributing building Startups both in Indonesia and United States. -->
   
 
