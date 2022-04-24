@@ -17,9 +17,6 @@
 - Others: [Dockerhub](https://hub.docker.com/u/aclaputra), [Stack Overflow](https://stackoverflow.com/users/14654387/acla-putra)
 - 👀 Any Questions? Let's get in touch here [acla.my.id]( https://inspiring-agnesi-1524be.netlify.app/)
 
-<hr>
-
-
 <!-- <hr> -->
 <!-- Usually I'm active in my github, I like do Open sourcing, Competitive programming, Data Structures & Algorithms kind of stuff. now i'm in contributing building Startups both in Indonesia and United States. -->
   
