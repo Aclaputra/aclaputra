@@ -17,9 +17,9 @@ I'm Acla from Tangerang,Indonesia. a college student passionates about programmi
 - Others: [Dockerhub](https://hub.docker.com/u/aclaputra), [Stack Overflow](https://stackoverflow.com/users/14654387/acla-putra)
 - Any Questions? 👀 Let's get in touch here [acla.my.id]( https://inspiring-agnesi-1524be.netlify.app/)
 
+![My Discord](https://discord-readme-badge.vercel.app/api?id=569945702889685004)
+
 ![Metrics](https://metrics.lecoq.io/aclaputra?template=terminal&base.community=0&base.metadata=0&languages=1&achievements=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FJakarta)
-
-
 
 <!-- <hr> -->
 <!-- Usually I'm active in my github, I like do Open sourcing, Competitive programming, Data Structures & Algorithms kind of stuff. now i'm in contributing building Startups both in Indonesia and United States. -->
