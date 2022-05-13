@@ -20,7 +20,7 @@ I'm Acla from Tangerang,Indonesia. a college student passionates about programmi
 - Any Questions? 👀 Let's get in touch here [acla.my.id]( https://inspiring-agnesi-1524be.netlify.app/)
 
 <div align="center">
-<img src="https://s1.1zoom.me/big0/38/Attack_on_Titan_eren_442810.jpg" />
+<img src="https://w0.peakpx.com/wallpaper/172/728/HD-wallpaper-night-sky-pretty-beautiful-sweet-nice-anime-beauty-anime-girl-scenery-couple-star-night-male-lovely-sky-blud-boy-girl-scene.jpg" />
 </div>
 
 <!-- ![My Discord](https://discord-readme-badge.vercel.app/api?id=569945702889685004) -->
