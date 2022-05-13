@@ -10,6 +10,11 @@ I'm Acla from Tangerang,Indonesia. a college student passionates about programmi
 <!-- ![Metrics](https://metrics.lecoq.io/Aclaputra?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&isocalendar=1&isocalendar.duration=half-year&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&achievements.ignored=forker%2C%20deployer%2C%20reviewer%2C%20maintainer%2C%20contributor%2C%20influencer%2C%20stargazer%2C%20member%2C%20follower%2C%20reviewer&config.timezone=Asia%2FJakarta)
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Aclaputra&langs_count=10&theme=radical&hide=html" alt = "Top Langs"> -->
 
+<!-- <div align="center">
+<img src="https://w0.peakpx.com/wallpaper/172/728/HD-wallpaper-night-sky-pretty-beautiful-sweet-nice-anime-beauty-anime-girl-scenery-couple-star-night-male-lovely-sky-blud-boy-girl-scene.jpg" />
+</div>
+ -->
+
 ## My Stuffs :
 
 - In Production 🚀 : [CodingTopia.com](https://codingtopia.com)
@@ -19,9 +24,6 @@ I'm Acla from Tangerang,Indonesia. a college student passionates about programmi
 - Others: [Dockerhub](https://hub.docker.com/u/aclaputra), [Stack Overflow](https://stackoverflow.com/users/14654387/acla-putra)
 - Any Questions? 👀 Let's get in touch here [acla.my.id]( https://inspiring-agnesi-1524be.netlify.app/)
 
-<div align="center">
-<img src="https://w0.peakpx.com/wallpaper/172/728/HD-wallpaper-night-sky-pretty-beautiful-sweet-nice-anime-beauty-anime-girl-scenery-couple-star-night-male-lovely-sky-blud-boy-girl-scene.jpg" />
-</div>
 
 <!-- ![My Discord](https://discord-readme-badge.vercel.app/api?id=569945702889685004) -->
 
