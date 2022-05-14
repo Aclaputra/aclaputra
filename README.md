@@ -10,7 +10,10 @@ I'm Acla from Tangerang,Indonesia. a college student passionates about programmi
 <!-- ![Metrics](https://metrics.lecoq.io/Aclaputra?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&isocalendar=1&isocalendar.duration=half-year&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&achievements.ignored=forker%2C%20deployer%2C%20reviewer%2C%20maintainer%2C%20contributor%2C%20influencer%2C%20stargazer%2C%20member%2C%20follower%2C%20reviewer&config.timezone=Asia%2FJakarta)
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Aclaputra&langs_count=10&theme=radical&hide=html" alt = "Top Langs"> -->
 
+
+
 <div align="center">
+  <p>two months and a half left.</p>
 <img src="https://cdn.vox-cdn.com/thumbor/HCjgqG4PpB7EW6QIF8xmH3D9QNM=/0x16:878x476/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19754183/Screen_Shot_2020_02_28_at_9.36.56_AM.png" height="280"/>
 </div>
 
