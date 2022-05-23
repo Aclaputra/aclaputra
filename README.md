@@ -15,7 +15,7 @@ I'm Acla from Tangerang,Indonesia. a college student passionates about programmi
 <div align="center">
   <p>Capstone : two weeks left. Bangkit : two months and a half left.</p>
 <!-- <img src="https://cdn.vox-cdn.com/thumbor/HCjgqG4PpB7EW6QIF8xmH3D9QNM=/0x16:878x476/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19754183/Screen_Shot_2020_02_28_at_9.36.56_AM.png" height="280"/> -->
-<img src="https://c.tenor.com/4riTrXsvbC4AAAAC/received-alan-walker.gif" height="400"/>
+<img src="https://c.tenor.com/4riTrXsvbC4AAAAC/received-alan-walker.gif" height="280"/>
 </div>
 
 ## My Stuffs :
