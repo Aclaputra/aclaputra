@@ -15,7 +15,8 @@ I'm Acla from Tangerang,Indonesia. a college student passionates about programmi
 <div align="center">
 <!--   <p>Capstone : two weeks left. Bangkit : two months and a half left.</p> -->
 <!--   <p>Capstone done for now, Time to focus on my Job to pay my Living expenses. (not financially stable yet)</p> -->
-  <p>6 days left.</p>
+  <p>Status : 6 days left.</p>
+  <p>Me Right now : </p>
 <!-- <img src="https://cdn.vox-cdn.com/thumbor/HCjgqG4PpB7EW6QIF8xmH3D9QNM=/0x16:878x476/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19754183/Screen_Shot_2020_02_28_at_9.36.56_AM.png" height="280"/> -->
 <!-- <img src="https://c.tenor.com/4riTrXsvbC4AAAAC/received-alan-walker.gif" height="200"/>
 <img src="https://media0.giphy.com/media/xUA7b0MOvGG607y88g/giphy.gif?cid=790b7611c19455e162f1843efadeeefa1dccbacafcfd53c9&rid=giphy.gif&ct=g" height="200"/> -->
