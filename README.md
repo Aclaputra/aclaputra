@@ -20,8 +20,8 @@ I'm Acla from Tangerang,Indonesia. a college student passionates about programmi
 <!-- <img src="https://c.tenor.com/4riTrXsvbC4AAAAC/received-alan-walker.gif" height="200"/>
 <img src="https://media0.giphy.com/media/xUA7b0MOvGG607y88g/giphy.gif?cid=790b7611c19455e162f1843efadeeefa1dccbacafcfd53c9&rid=giphy.gif&ct=g" height="200"/> -->
   
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpapercave.com%2Fwp%2Fwp1918218.jpg&f=1&nofb=1" height="500"/>
-<img src="https://discord-readme-badge.vercel.app/api?id=569945702889685004" height="300"/>
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpapercave.com%2Fwp%2Fwp1918218.jpg&f=1&nofb=1" height="300"/>
+<img src="https://discord-readme-badge.vercel.app/api?id=569945702889685004" height="250"/>
 </div>
 
 <!-- ## My Stuffs :
