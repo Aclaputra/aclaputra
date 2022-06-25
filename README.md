@@ -12,19 +12,19 @@ I'm Acla from Tangerang,Indonesia. a college student passionates about programmi
 
 
 
-<!-- <div align="center"> -->
+<div align="center">
 <!--   <p>Capstone : two weeks left. Bangkit : two months and a half left.</p> -->
 <!--   <p>Capstone done for now, Time to focus on my Job to pay my Living expenses. (not financially stable yet)</p> -->
 <!--   <p>Life is a game. Play the game.</p> -->
 
-<!-- <img src="https://cdn.vox-cdn.com/thumbor/HCjgqG4PpB7EW6QIF8xmH3D9QNM=/0x16:878x476/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19754183/Screen_Shot_2020_02_28_at_9.36.56_AM.png" height="280"/> -->
+<img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fi.kinja-img.com%2Fgawker-media%2Fimage%2Fupload%2Fs--1v7xM2Wn--%2Fc_fit%2Cfl_progressive%2Cq_80%2Cw_636%2Fqj1ttc4qa093txd86plq.gif&f=1&nofb=1" height="400"/>
 <!-- <img src="https://c.tenor.com/4riTrXsvbC4AAAAC/received-alan-walker.gif" height="200"/>
 <img src="https://media0.giphy.com/media/xUA7b0MOvGG607y88g/giphy.gif?cid=790b7611c19455e162f1843efadeeefa1dccbacafcfd53c9&rid=giphy.gif&ct=g" height="200"/> -->
 <!-- <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F9c%2F16%2Fa0%2F9c16a0dd480c68fbbca86b8255e70b19.gif&f=1&nofb=1" height="300"/> -->
   
 <!-- <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpapercave.com%2Fwp%2Fwp1918218.jpg&f=1&nofb=1" height="300"/> -->
 <!-- <img src="https://discord-readme-badge.vercel.app/api?id=569945702889685004" height="250"/> -->
-<!-- </div> -->
+</div>
 
 ## My Stuffs :
 
