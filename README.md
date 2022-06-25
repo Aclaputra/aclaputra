@@ -12,7 +12,7 @@ I'm Acla from Tangerang,Indonesia. a college student passionates about programmi
 
 
 
-<div align="center">
+<!-- <div align="center"> -->
 <!--   <p>Capstone : two weeks left. Bangkit : two months and a half left.</p> -->
 <!--   <p>Capstone done for now, Time to focus on my Job to pay my Living expenses. (not financially stable yet)</p> -->
 <!--   <p>Life is a game. Play the game.</p> -->
@@ -24,7 +24,7 @@ I'm Acla from Tangerang,Indonesia. a college student passionates about programmi
   
 <!-- <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpapercave.com%2Fwp%2Fwp1918218.jpg&f=1&nofb=1" height="300"/> -->
 <!-- <img src="https://discord-readme-badge.vercel.app/api?id=569945702889685004" height="250"/> -->
-</div>
+<!-- </div> -->
 
 ## My Stuffs :
 
