@@ -1,6 +1,6 @@
 
 
-<img src="https://komarev.com/ghpvc/?username=Aclaputra&style=flat-square&color=blue" alt="visitor-counters"/>
+<!-- <img src="https://komarev.com/ghpvc/?username=Aclaputra&style=flat-square&color=blue" alt="visitor-counters"/> -->
 <!-- <h1 align="left">Hi, Nice to Meet You 👋💻</h1> -->
 <!-- <p>**usually using linux Ubuntu 20.04 / 22.04 for my daily productivity & ongoing research on HHVM.**</p> -->
 <!-- 
@@ -18,12 +18,13 @@ I'm Acla from Tangerang,Indonesia. a college student passionates about programmi
 <!--   <p>Life is a game. Play the game.</p> -->
 
 <!-- <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fi.kinja-img.com%2Fgawker-media%2Fimage%2Fupload%2Fs--1v7xM2Wn--%2Fc_fit%2Cfl_progressive%2Cq_80%2Cw_636%2Fqj1ttc4qa093txd86plq.gif&f=1&nofb=1" height="400"/> -->
-<img src="https://c.tenor.com/4riTrXsvbC4AAAAC/received-alan-walker.gif" height="200"/>
-<img src="https://media0.giphy.com/media/xUA7b0MOvGG607y88g/giphy.gif?cid=790b7611c19455e162f1843efadeeefa1dccbacafcfd53c9&rid=giphy.gif&ct=g" height="200"/>
+<!-- <img src="https://c.tenor.com/4riTrXsvbC4AAAAC/received-alan-walker.gif" height="200"/>
+<img src="https://media0.giphy.com/media/xUA7b0MOvGG607y88g/giphy.gif?cid=790b7611c19455e162f1843efadeeefa1dccbacafcfd53c9&rid=giphy.gif&ct=g" height="200"/> -->
 <!-- <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F9c%2F16%2Fa0%2F9c16a0dd480c68fbbca86b8255e70b19.gif&f=1&nofb=1" height="300"/> -->
   
 <!-- <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpapercave.com%2Fwp%2Fwp1918218.jpg&f=1&nofb=1" height="300"/> -->
-<!-- <img src="https://discord-readme-badge.vercel.app/api?id=569945702889685004" height="250"/> -->
+<img src="https://discord-readme-badge.vercel.app/api?id=569945702889685004" height="250"/>
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Aclaputra&layout=compact&theme=radical&langs_count=10" alt = "Top Langs">
 </div>
 
 ## My Stuffs :
@@ -47,7 +48,7 @@ I'm Acla from Tangerang,Indonesia. a college student passionates about programmi
 <!-- <div align=""> -->
 <!--   <img src = "https://metrics.lecoq.io/Aclaputra?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&isocalendar=1&isocalendar.duration=half-year&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&achievements.ignored=forker%2C%20deployer%2C%20reviewer%2C%20maintainer%2C%20contributor%2C%20influencer%2C%20stargazer%2C%20member%2C%20follower%2C%20reviewer&config.timezone=Asia%2FJakarta" alt="Achievements"> -->
   
-<!--   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Aclaputra&layout=compact&theme=radical&langs_count=10" alt = "Top Langs"> -->
+
 
 <!--   <img src = "https://metrics.lecoq.io/Aclaputra?template=classic&config.timezone=Asia%2FJakarta" alt = "Metrics"> -->
 <!-- </div> -->
