@@ -15,7 +15,7 @@ I'm Acla from Tangerang,Indonesia. a college student passionates about programmi
 <div align="center">
 <!--   <p>Capstone : two weeks left. Bangkit : two months and a half left.</p> -->
 <!--   <p>Capstone done for now, Time to focus on my Job to pay my Living expenses. (not financially stable yet)</p> -->
-<!--   <p>Life is a game. Play the game.</p> -->
+  <p>Life is a game. Play the game.</p>
 
 <!-- <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fi.kinja-img.com%2Fgawker-media%2Fimage%2Fupload%2Fs--1v7xM2Wn--%2Fc_fit%2Cfl_progressive%2Cq_80%2Cw_636%2Fqj1ttc4qa093txd86plq.gif&f=1&nofb=1" height="400"/> -->
 <!-- <img src="https://c.tenor.com/4riTrXsvbC4AAAAC/received-alan-walker.gif" height="200"/>
@@ -24,7 +24,7 @@ I'm Acla from Tangerang,Indonesia. a college student passionates about programmi
   
 <!-- <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpapercave.com%2Fwp%2Fwp1918218.jpg&f=1&nofb=1" height="300"/> -->
 <img src="https://discord-readme-badge.vercel.app/api?id=569945702889685004" height="250"/>
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Aclaputra&layout=compact&theme=radical&langs_count=10" alt = "Top Langs">
+<!--     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Aclaputra&layout=compact&theme=radical&langs_count=10" alt = "Top Langs"> -->
 </div>
 
 ## My Stuffs :
@@ -38,8 +38,8 @@ I'm Acla from Tangerang,Indonesia. a college student passionates about programmi
 
 <!-- ![My Discord](https://discord-readme-badge.vercel.app/api?id=569945702889685004) -->
 
-
-<!-- ![Metrics](https://metrics.lecoq.io/aclaputra?template=terminal&base.community=0&base.metadata=0&languages=1&achievements=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FJakarta) -->
+<!-- 
+![Metrics](https://metrics.lecoq.io/aclaputra?template=terminal&base.community=0&base.metadata=0&languages=1&achievements=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FJakarta) -->
 
 <!-- <hr> -->
 <!-- Usually I'm active in my github, I like do Open sourcing, Competitive programming, Data Structures & Algorithms kind of stuff. now i'm in contributing building Startups both in Indonesia and United States. -->
