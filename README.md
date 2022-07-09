@@ -15,7 +15,7 @@ I'm Acla from Tangerang,Indonesia. a college student passionates about programmi
 <div align="center">
 <!--   <p>Capstone : two weeks left. Bangkit : two months and a half left.</p> -->
 <!--   <p>Capstone done for now, Time to focus on my Job to pay my Living expenses. (not financially stable yet)</p> -->
-  <p>Life is a game. Play the game.</p>
+<!--   <p>Life is a game. Play the game.</p> -->
 
 <!-- <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fi.kinja-img.com%2Fgawker-media%2Fimage%2Fupload%2Fs--1v7xM2Wn--%2Fc_fit%2Cfl_progressive%2Cq_80%2Cw_636%2Fqj1ttc4qa093txd86plq.gif&f=1&nofb=1" height="400"/> -->
 <!-- <img src="https://c.tenor.com/4riTrXsvbC4AAAAC/received-alan-walker.gif" height="200"/>
