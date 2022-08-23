@@ -21,8 +21,8 @@ I'm Acla from Tangerang,Indonesia. a college student passionates about programmi
 <!-- <img src="https://c.tenor.com/4riTrXsvbC4AAAAC/received-alan-walker.gif" height="200"/>
 <img src="https://media0.giphy.com/media/xUA7b0MOvGG607y88g/giphy.gif?cid=790b7611c19455e162f1843efadeeefa1dccbacafcfd53c9&rid=giphy.gif&ct=g" height="200"/> -->
 <!-- <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F9c%2F16%2Fa0%2F9c16a0dd480c68fbbca86b8255e70b19.gif&f=1&nofb=1" height="300"/> -->
-  <h1>Yolo.</h1>
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F0.soompi.io%2Fwp-content%2Fuploads%2F2020%2F10%2F14092142%2Fnam-joo-hyuk2.jpg&f=1&nofb=1" height="600"/>
+
+<!-- <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F0.soompi.io%2Fwp-content%2Fuploads%2F2020%2F10%2F14092142%2Fnam-joo-hyuk2.jpg&f=1&nofb=1" height="600"/> -->
 <!-- <img src="https://discord-readme-badge.vercel.app/api?id=569945702889685004" height="250"/> -->
 <!--     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Aclaputra&layout=compact&theme=radical&langs_count=10" alt = "Top Langs"> -->
 </div>
