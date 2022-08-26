@@ -27,7 +27,7 @@ I'm Acla from Tangerang,Indonesia. a college student passionates about programmi
 <!--     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Aclaputra&layout=compact&theme=radical&langs_count=10" alt = "Top Langs"> -->
 </div>
 
-## ...
+<!-- ## ... -->
 
 <!-- - In Production 🚀 : [CodingTopia.com](https://codingtopia.com) -->
 <!-- - Youtube 🎥 : [Acla Developer](https://www.youtube.com/channel/UCLWJOKoVs1WF622T_XEZzig) -->
