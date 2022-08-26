@@ -27,14 +27,14 @@ I'm Acla from Tangerang,Indonesia. a college student passionates about programmi
 <!--     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Aclaputra&layout=compact&theme=radical&langs_count=10" alt = "Top Langs"> -->
 </div>
 
-<!-- ## My Stuffs :
+## My Stuffs :
 
 - In Production 🚀 : [CodingTopia.com](https://codingtopia.com)
 - Youtube 🎥 : [Acla Developer](https://www.youtube.com/channel/UCLWJOKoVs1WF622T_XEZzig)
 - Social Media 🤳 : [LinkedIn](https://www.linkedin.com/in/muhammad-acla-a-putra-bbb8071b9)
-- Competitive Programming Accounts 🧑‍💻 : [Hacker Rank](https://www.hackerrank.com/aclaputra), [Hacker Earth](https://www.hackerearth.com/@aclalead), [Code Chef](https://www.codechef.com/users/aclaputra), [Code Forces](https://codeforces.com/profile/aclaputra)
+- Competitive Programming Accounts 🧑‍💻 : [Hacker Rank](https://www.hackerrank.com/aclaputra), [Hacker Earth](https://www.hackerearth.com/@aclalead), [LeetCode](https://leetcode.com/acla/), [Code Chef](https://www.codechef.com/users/aclaputra), [Code Forces](https://codeforces.com/profile/aclaputra)
 - Others: [Dockerhub](https://hub.docker.com/u/aclaputra), [Stack Overflow](https://stackoverflow.com/users/14654387/acla-putra)
-- Any Questions? 👀 Let's get in touch here [acla.my.id]( https://inspiring-agnesi-1524be.netlify.app/) -->
+- Any Questions? 👀 Let's get in touch here [acla.my.id]( https://inspiring-agnesi-1524be.netlify.app/)
 
 <!-- ![My Discord](https://discord-readme-badge.vercel.app/api?id=569945702889685004) -->
 
