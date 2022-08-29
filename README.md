@@ -55,7 +55,9 @@ I'm Acla from Tangerang,Indonesia. a college student passionates about programmi
 </table>
 
 <p>> i just pin & public project that i'm still working on it. finished project burried in my repository list. (currently total of 199 repositories).</p>
-<p>> but i public some cloud, backend or frontend tutorial to help myself also others.</p>
+<p>> but i do public some cloud, backend or frontend tutorial to help myself also others.</p>
+
+
 <!-- - CP 🧑‍💻 : [Hacker Rank](https://www.hackerrank.com/aclaputra), [Hacker Earth](https://www.hackerearth.com/@aclalead), [LeetCode](https://leetcode.com/acla/), [Code Chef](https://www.codechef.com/users/aclaputra), [Code Forces](https://codeforces.com/profile/aclaputra)
 - Others: [Dockerhub](https://hub.docker.com/u/aclaputra), [Stack Overflow](https://stackoverflow.com/users/14654387/acla-putra) -->
   
