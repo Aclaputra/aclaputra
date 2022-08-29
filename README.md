@@ -54,6 +54,8 @@ I'm Acla from Tangerang,Indonesia. a college student passionates about programmi
   </tr>
 </table>
 
+<p>> i just pin project that i'm still working on it. finished project burried in my repository list.</p>
+
 <!-- - CP 🧑‍💻 : [Hacker Rank](https://www.hackerrank.com/aclaputra), [Hacker Earth](https://www.hackerearth.com/@aclalead), [LeetCode](https://leetcode.com/acla/), [Code Chef](https://www.codechef.com/users/aclaputra), [Code Forces](https://codeforces.com/profile/aclaputra)
 - Others: [Dockerhub](https://hub.docker.com/u/aclaputra), [Stack Overflow](https://stackoverflow.com/users/14654387/acla-putra) -->
   
