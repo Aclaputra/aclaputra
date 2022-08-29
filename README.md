@@ -32,8 +32,32 @@ I'm Acla from Tangerang,Indonesia. a college student passionates about programmi
 <!-- - In Production 🚀 : [CodingTopia.com](https://codingtopia.com) -->
 <!-- - Youtube 🎥 : [Acla Developer](https://www.youtube.com/channel/UCLWJOKoVs1WF622T_XEZzig) -->
 <!-- - Social Media 🤳 : [LinkedIn](https://www.linkedin.com/in/muhammad-acla-a-putra-bbb8071b9) -->
-- CP 🧑‍💻 : [Hacker Rank](https://www.hackerrank.com/aclaputra), [Hacker Earth](https://www.hackerearth.com/@aclalead), [LeetCode](https://leetcode.com/acla/), [Code Chef](https://www.codechef.com/users/aclaputra), [Code Forces](https://codeforces.com/profile/aclaputra)
-- Others: [Dockerhub](https://hub.docker.com/u/aclaputra), [Stack Overflow](https://stackoverflow.com/users/14654387/acla-putra)
+
+<table>
+  <tr>
+    <td>Hacker Rank</td>
+    <td>https://www.hackerrank.com/aclaputra</td>
+  </tr>
+  <tr>
+    <td>Hacker Earth</td>
+    <td>https://www.hackerearth.com/@aclalead</td>
+  </tr>
+  <tr>
+    <td>LeetCode</td>
+    <td>https://leetcode.com/acla/</td>
+  </tr>
+    <td>Code Chef</td>
+    <td>https://www.codechef.com/users/aclaputra</td>
+  </tr>
+    <td>Code Forces</td>
+    <td>https://codeforces.com/profile/aclaputra</td>
+  </tr>
+</table>
+
+<!-- - CP 🧑‍💻 : [Hacker Rank](https://www.hackerrank.com/aclaputra), [Hacker Earth](https://www.hackerearth.com/@aclalead), [LeetCode](https://leetcode.com/acla/), [Code Chef](https://www.codechef.com/users/aclaputra), [Code Forces](https://codeforces.com/profile/aclaputra)
+- Others: [Dockerhub](https://hub.docker.com/u/aclaputra), [Stack Overflow](https://stackoverflow.com/users/14654387/acla-putra) -->
+  
+
 <!-- - Any Questions? 👀 Let's get in touch here [acla.my.id]( https://inspiring-agnesi-1524be.netlify.app/) -->
 
 <!-- ![My Discord](https://discord-readme-badge.vercel.app/api?id=569945702889685004) -->
