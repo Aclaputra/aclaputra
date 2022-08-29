@@ -56,6 +56,7 @@ I'm Acla from Tangerang,Indonesia. a college student passionates about programmi
 
 <p>> i just pin & public project that i'm still working on it. finished project burried in my repository list. (currently total of 199 repositories).</p>
 <p>> this acc used just for my todolist because I 💕 Github UI, but i do public some cloud, algortihms, backend or frontend tutorial to help me remember also to help others.</p>
+<p> i'm still learning but i have high target for future. </p>
 
 
 <!-- - CP 🧑‍💻 : [Hacker Rank](https://www.hackerrank.com/aclaputra), [Hacker Earth](https://www.hackerearth.com/@aclalead), [LeetCode](https://leetcode.com/acla/), [Code Chef](https://www.codechef.com/users/aclaputra), [Code Forces](https://codeforces.com/profile/aclaputra)
