@@ -43,7 +43,7 @@ I'm Acla from Tangerang,Indonesia. a college student passionates about programmi
     <td>https://www.hackerearth.com/@aclalead</td>
   </tr>
   <tr>
-    <td>LeetCode</td>
+    <td>Leet Code</td>
     <td>https://leetcode.com/acla/</td>
   </tr>
     <td>Code Chef</td>
