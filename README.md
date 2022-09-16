@@ -13,11 +13,11 @@ I'm Acla from Tangerang,Indonesia. a college student passionates about programmi
 
 
 <div align="center">
-  <p>Letsgoo.</p>
+<!--   <p>Letsgoo.</p> -->
 <!--   <p>Capstone done for now, Time to focus on my Job to pay my Living expenses. (not financially stable yet)</p> -->
 <!--   <p>Life is a game. Play the game.</p> -->
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpa1.narvii.com%2F6421%2Fd44c7f9011afde08266297a71b33b294c700551b_hq.gif&f=1&nofb=1" height="400"/>
+<!-- <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpa1.narvii.com%2F6421%2Fd44c7f9011afde08266297a71b33b294c700551b_hq.gif&f=1&nofb=1" height="400"/> -->
 <!-- <img src="https://c.tenor.com/4riTrXsvbC4AAAAC/received-alan-walker.gif" height="200"/>
 <img src="https://media0.giphy.com/media/xUA7b0MOvGG607y88g/giphy.gif?cid=790b7611c19455e162f1843efadeeefa1dccbacafcfd53c9&rid=giphy.gif&ct=g" height="200"/> -->
 <!-- <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F9c%2F16%2Fa0%2F9c16a0dd480c68fbbca86b8255e70b19.gif&f=1&nofb=1" height="300"/> -->
