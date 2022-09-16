@@ -13,7 +13,7 @@ I'm Acla from Tangerang,Indonesia. a college student passionates about programmi
 
 
 <div align="center">
-<!--   <p>Capstone : two weeks left. Bangkit : two months and a half left.</p> -->
+  <p>Letsgoo.</p>
 <!--   <p>Capstone done for now, Time to focus on my Job to pay my Living expenses. (not financially stable yet)</p> -->
 <!--   <p>Life is a game. Play the game.</p> -->
 
