@@ -1,6 +1,8 @@
 <!-- <h1 align="left">Hi, Nice to Meet You 👋💻</h1> -->
 <!-- <p>Hi, welcome to my Todolist account.</p> -->
-<img src="https://komarev.com/ghpvc/?username=Aclaputra&style=flat-square&color=blue" alt="visitor-counters"/>
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=Aclaputra&style=flat-square&color=blue" alt="visitor-counters"/>
+</div>
 <!-- <p>**usually using linux Ubuntu 20.04 / 22.04 for my daily productivity & ongoing research on HHVM.**</p> -->
 <!-- 
 I'm Acla from Tangerang,Indonesia. a college student passionates about programming <br> and loves building awesome projects. Any Questions? Let's get in touch here  -->
