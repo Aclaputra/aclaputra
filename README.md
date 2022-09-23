@@ -1,8 +1,8 @@
 <!-- <h1 align="left">Hi, Nice to Meet You 👋💻</h1> -->
 <!-- <p>Hi, welcome to my Todolist account.</p> -->
-<div align="right">
+<!-- <div align="right">
   <img src="https://komarev.com/ghpvc/?username=Aclaputra&style=flat-square&color=blue" alt="visitor-counters"/>
-</div>
+</div> -->
 <!-- <p>**usually using linux Ubuntu 20.04 / 22.04 for my daily productivity & ongoing research on HHVM.**</p> -->
 <!-- 
 I'm Acla from Tangerang,Indonesia. a college student passionates about programming <br> and loves building awesome projects. Any Questions? Let's get in touch here  -->
@@ -25,28 +25,39 @@ I'm Acla from Tangerang,Indonesia. a college student passionates about programmi
 <!-- <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F0.soompi.io%2Fwp-content%2Fuploads%2F2020%2F10%2F14092142%2Fnam-joo-hyuk2.jpg&f=1&nofb=1" height="600"/> -->
 <!-- <img src="https://discord-readme-badge.vercel.app/api?id=569945702889685004" height="250"/> -->
 <!--     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Aclaputra&layout=compact&theme=radical&langs_count=10" alt = "Top Langs"> -->
-  <table>
+  
+<table>
   <tr>
-    <td>Hacker Rank</td>
-    <td><a href="https://www.hackerrank.com/aclaputra">>></a></td>
-  </tr>
-  <tr>
-    <td>Hacker Earth</td>
-    <td><a href="https://www.hackerearth.com/@aclalead">>></a></td>
-  </tr>
-  <tr>
-    <td>Leet Code</td>
-    <td><a href="https://leetcode.com/acla/">>></a></td>
-  </tr>
-    <td>Code Chef</td>
-    <td><a href="https://www.codechef.com/users/aclaputra">>></a></td>
-  </tr>
-    <td>Code Forces</td>
-    <td><a href="https://codeforces.com/profile/aclaputra">>></a></td>
+    <td valign="top">
+      <table>
+        <tr>
+          <td>Hacker Rank</td>
+          <td><a href="https://www.hackerrank.com/aclaputra">>></a></td>
+        </tr>
+        <tr>
+          <td>Hacker Earth</td>
+          <td><a href="https://www.hackerearth.com/@aclalead">>></a></td>
+        </tr>
+        <tr>
+          <td>Leet Code</td>
+          <td><a href="https://leetcode.com/acla/">>></a></td>
+        </tr>
+          <td>Code Chef</td>
+          <td><a href="https://www.codechef.com/users/aclaputra">>></a></td>
+        </tr>
+          <td>Code Forces</td>
+          <td><a href="https://codeforces.com/profile/aclaputra">>></a></td>
+        </tr>
+      </table>
+      <img src="https://komarev.com/ghpvc/?username=Aclaputra&style=flat-square&color=blue" alt="visitor-counters"/>
+    </td>
+    <td valign="top">
+      <img src="https://c.tenor.com/gyBPvQwYfB0AAAAC/tonari-no.gif" width="300"/>
+    </td>
   </tr>
 </table>
   
-  <img src="https://c.tenor.com/gyBPvQwYfB0AAAAC/tonari-no.gif" width="300"/>
+  
 </div>
 
 <!-- ## ... -->
