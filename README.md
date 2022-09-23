@@ -34,7 +34,7 @@ I'm Acla from Tangerang,Indonesia. a college student passionates about programmi
 <!-- - Youtube 🎥 : [Acla Developer](https://www.youtube.com/channel/UCLWJOKoVs1WF622T_XEZzig) -->
 <!-- - Social Media 🤳 : [LinkedIn](https://www.linkedin.com/in/muhammad-acla-a-putra-bbb8071b9) -->
 
-<!-- <table>
+<table>
   <tr>
     <td>Hacker Rank</td>
     <td>https://www.hackerrank.com/aclaputra</td>
@@ -55,7 +55,7 @@ I'm Acla from Tangerang,Indonesia. a college student passionates about programmi
   </tr>
 </table>
 
-<p>> i just pin & public project that i'm still working on it. finished project are burried in my repository list (currently total of 200+ repositories).</p>
+<!-- <p>> i just pin & public project that i'm still working on it. finished project are burried in my repository list (currently total of 200+ repositories).</p>
 <p>> this acc used just for my todolist because I 💕 Github UI, but i do public some cloud, algortihms, backend or frontend tutorial to help me remember also to help others.</p>
 <p>> i'm a student but i have high target for my future.</p> -->
 
