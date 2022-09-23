@@ -28,25 +28,25 @@ I'm Acla from Tangerang,Indonesia. a college student passionates about programmi
   <table>
   <tr>
     <td>Hacker Rank</td>
-    <td>https://www.hackerrank.com/aclaputra</td>
+    <td><a href="https://www.hackerrank.com/aclaputra">>></a></td>
   </tr>
   <tr>
     <td>Hacker Earth</td>
-    <td>https://www.hackerearth.com/@aclalead</td>
+    <td><a href="https://www.hackerearth.com/@aclalead">>></a></td>
   </tr>
   <tr>
     <td>Leet Code</td>
-    <td>https://leetcode.com/acla/</td>
+    <td><a href="https://leetcode.com/acla/">>></a></td>
   </tr>
     <td>Code Chef</td>
-    <td>https://www.codechef.com/users/aclaputra</td>
+    <td><a href="https://www.codechef.com/users/aclaputra">>></a></td>
   </tr>
     <td>Code Forces</td>
-    <td>https://codeforces.com/profile/aclaputra</td>
+    <td><a href="https://codeforces.com/profile/aclaputra">>></a></td>
   </tr>
 </table>
   
-  <img src="https://c.tenor.com/gyBPvQwYfB0AAAAC/tonari-no.gif" height="300"/>
+  <img src="https://c.tenor.com/gyBPvQwYfB0AAAAC/tonari-no.gif" width="300"/>
 </div>
 
 <!-- ## ... -->
