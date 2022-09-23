@@ -46,7 +46,7 @@ I'm Acla from Tangerang,Indonesia. a college student passionates about programmi
   </tr>
 </table>
   
-  <img src="https://c.tenor.com/gyBPvQwYfB0AAAAC/tonari-no.gif" height="345"/>
+  <img src="https://c.tenor.com/gyBPvQwYfB0AAAAC/tonari-no.gif" height="300"/>
 </div>
 
 <!-- ## ... -->
