@@ -52,6 +52,10 @@ I'm Acla from Tangerang,Indonesia. a college student passionates about programmi
           <td>Code Forces</td>
           <td><a href="https://codeforces.com/profile/aclaputra">>></a></td>
         </tr>
+          </tr>
+          <td>Kaggle</td>
+          <td><a href="https://kaggle.com/aclaputra">>></a></td>
+        </tr>
       </table>
       <img src="https://komarev.com/ghpvc/?username=Aclaputra&style=flat-square&color=blue" alt="visitor-counters"/>
     </td>
