@@ -1,4 +1,4 @@
-<!-- <h1 align="left">Hi, Nice to Meet You 👋💻</h1> -->
+<h1 align="center">Hi, Nice to Meet You 👋💻</h1>
 <!-- <p>Hi, welcome to my Todolist account.</p> -->
 <!-- <div align="right">
   <img src="https://komarev.com/ghpvc/?username=Aclaputra&style=flat-square&color=blue" alt="visitor-counters"/>
@@ -52,9 +52,13 @@ I'm Acla from Tangerang,Indonesia. a college student passionates about programmi
           <td>Code Forces</td>
           <td><a href="https://codeforces.com/profile/aclaputra">>></a></td>
         </tr>
-          </tr>
+<!--           </tr>
           <td>Kaggle</td>
           <td><a href="https://kaggle.com/aclaputra">>></a></td>
+        </tr> -->
+        <tr>
+          <td>Linkedin</td>
+          <td><a href="https://www.linkedin.com/in/aclaputra">>></a></td>
         </tr>
       </table>
       <img src="https://komarev.com/ghpvc/?username=Aclaputra&style=flat-square&color=blue" alt="visitor-counters"/>
@@ -71,8 +75,8 @@ I'm Acla from Tangerang,Indonesia. a college student passionates about programmi
 <!-- ## ... -->
 
 <!-- - In Production 🚀 : [CodingTopia.com](https://codingtopia.com) -->
-<!-- - Youtube 🎥 : [Acla Developer](https://www.youtube.com/channel/UCLWJOKoVs1WF622T_XEZzig) -->
-<!-- - Social Media 🤳 : [LinkedIn](https://www.linkedin.com/in/muhammad-acla-a-putra-bbb8071b9) -->
+<!-- - Youtube 🎥 : [Acla Developer](https://www.youtube.com/channel/UCLWJOKoVs1WF622T_XEZzig)
+- LinkedIn 🤳 : [LinkedIn](https://www.linkedin.com/in/aclaputra) -->
 
 
 
