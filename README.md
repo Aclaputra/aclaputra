@@ -68,8 +68,8 @@ I'm Acla from Tangerang,Indonesia. a college student passionates about programmi
       <img src="https://komarev.com/ghpvc/?username=Aclaputra&style=flat-square&color=blue" alt="visitor-counters"/>
     </td>
     <td valign="top">
-      <img src="https://c.tenor.com/gyBPvQwYfB0AAAAC/tonari-no.gif" width="395"/>
-      <img src="https://discord-readme-badge.vercel.app/api?id=569945702889685004" height="100"/>
+      <img src="https://c.tenor.com/gyBPvQwYfB0AAAAC/tonari-no.gif" width="300"/>
+<!--       <img src="https://discord-readme-badge.vercel.app/api?id=569945702889685004" height="100"/> -->
     </td>
   </tr>
 </table>
