@@ -23,13 +23,17 @@ I'm Acla from Tangerang,Indonesia. a college student passionates about programmi
 <!-- <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F9c%2F16%2Fa0%2F9c16a0dd480c68fbbca86b8255e70b19.gif&f=1&nofb=1" height="300"/> -->
 
 <!-- <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F0.soompi.io%2Fwp-content%2Fuploads%2F2020%2F10%2F14092142%2Fnam-joo-hyuk2.jpg&f=1&nofb=1" height="600"/> -->
-<!-- <img src="https://discord-readme-badge.vercel.app/api?id=569945702889685004" height="250"/> -->
+
 <!--     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Aclaputra&layout=compact&theme=radical&langs_count=10" alt = "Top Langs"> -->
   
 <table>
   <tr>
     <td valign="top">
       <table>
+        <tr>
+          <td><img src="https://discord-readme-badge.vercel.app/api?id=569945702889685004" height="100"/></td>
+          <td></td>
+        </tr>
         <tr>
           <td>youtube.com/acladeveloper</td>
           <td><a href="https://youtu.be/QRiLwhLh4V4">>></a></td>
