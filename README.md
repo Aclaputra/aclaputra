@@ -68,7 +68,8 @@ I'm Acla from Tangerang,Indonesia. a college student passionates about programmi
       <img src="https://komarev.com/ghpvc/?username=Aclaputra&style=flat-square&color=blue" alt="visitor-counters"/>
     </td>
     <td valign="top">
-      <img src="https://c.tenor.com/gyBPvQwYfB0AAAAC/tonari-no.gif" width="300"/>
+      <img src="https://c.tenor.com/gyBPvQwYfB0AAAAC/tonari-no.gif" width="395"/>
+      <img src="https://discord-readme-badge.vercel.app/api?id=569945702889685004" height="100"/>
     </td>
   </tr>
 </table>
@@ -84,9 +85,7 @@ I'm Acla from Tangerang,Indonesia. a college student passionates about programmi
 
 
 
-<!-- <p>> i just pin & public project that i'm still working on it. finished project are burried in my repository list (currently total of 200+ repositories).</p>
-<p>> this acc used just for my todolist because I 💕 Github UI, but i do public some cloud, algortihms, backend or frontend tutorial to help me remember also to help others.</p>
-<p>> i'm a student but i have high target for my future.</p> -->
+<!--   <img src = "https://metrics.lecoq.io/Aclaputra?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&isocalendar=1&isocalendar.duration=half-year&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&achievements.ignored=forker%2C%20deployer%2C%20reviewer%2C%20maintainer%2C%20contributor%2C%20influencer%2C%20stargazer%2C%20member%2C%20follower%2C%20reviewer&config.timezone=Asia%2FJakarta" alt="Achievements"> -->
 
 
 <!-- - CP 🧑‍💻 : [Hacker Rank](https://www.hackerrank.com/aclaputra), [Hacker Earth](https://www.hackerearth.com/@aclalead), [LeetCode](https://leetcode.com/acla/), [Code Chef](https://www.codechef.com/users/aclaputra), [Code Forces](https://codeforces.com/profile/aclaputra)
@@ -97,19 +96,16 @@ I'm Acla from Tangerang,Indonesia. a college student passionates about programmi
 
 <!-- ![My Discord](https://discord-readme-badge.vercel.app/api?id=569945702889685004) -->
 
-<!-- 
-![Metrics](https://metrics.lecoq.io/aclaputra?template=terminal&base.community=0&base.metadata=0&languages=1&achievements=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FJakarta) -->
+<!--   ![Metrics](https://metrics.lecoq.io/aclaputra?template=terminal&base.community=0&base.metadata=0&languages=1&achievements=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FJakarta) -->
+
 
 <!-- <hr> -->
 <!-- Usually I'm active in my github, I like do Open sourcing, Competitive programming, Data Structures & Algorithms kind of stuff. now i'm in contributing building Startups both in Indonesia and United States. -->
   
 
-<!-- <div align=""> -->
-<!--   <img src = "https://metrics.lecoq.io/Aclaputra?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&isocalendar=1&isocalendar.duration=half-year&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&achievements.ignored=forker%2C%20deployer%2C%20reviewer%2C%20maintainer%2C%20contributor%2C%20influencer%2C%20stargazer%2C%20member%2C%20follower%2C%20reviewer&config.timezone=Asia%2FJakarta" alt="Achievements"> -->
-  
-
-
-<!--   <img src = "https://metrics.lecoq.io/Aclaputra?template=classic&config.timezone=Asia%2FJakarta" alt = "Metrics"> -->
-<!-- </div> -->
+<div align="center">
+  <img src ="https://metrics.lecoq.io/aclaputra?template=terminal&base.community=0&base.metadata=0&languages=1&achievements=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FJakarta" alt = "Metrics">
+  <img src = "https://metrics.lecoq.io/Aclaputra?template=classic&config.timezone=Asia%2FJakarta" alt = "Metrics">
+</div>
 
 
