@@ -36,7 +36,7 @@ I'm Acla from Tangerang,Indonesia. a college student passionates about programmi
         </tr>
         <tr>
           <td>youtube.com/acladeveloper</td>
-          <td><a href="https://youtu.be/QRiLwhLh4V4">>></a></td>
+          <td><a href="https://youtube.com/acladeveloper">>></a></td>
         </tr>
         <tr>
           <td>Linkedin</td>
