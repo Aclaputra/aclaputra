@@ -39,6 +39,18 @@ I'm Acla from Tangerang,Indonesia. a college student passionates about programmi
           <td><a href="https://youtu.be/QRiLwhLh4V4">>></a></td>
         </tr>
         <tr>
+          <td>Linkedin</td>
+          <td><a href="https://www.linkedin.com/in/aclaputra">>></a></td>
+        </tr>
+        <tr>
+          <td>Code Chef</td>
+          <td><a href="https://www.codechef.com/users/aclaputra">>></a></td>
+        </tr>
+        <tr>
+          <td>Code Forces</td>
+          <td><a href="https://codeforces.com/profile/aclaputra">>></a></td>
+        </tr>
+        <tr>
           <td>Hacker Rank</td>
           <td><a href="https://www.hackerrank.com/aclaputra">>></a></td>
         </tr>
@@ -50,26 +62,17 @@ I'm Acla from Tangerang,Indonesia. a college student passionates about programmi
           <td>Leet Code</td>
           <td><a href="https://leetcode.com/acla/">>></a></td>
         </tr>
-          <td>Code Chef</td>
-          <td><a href="https://www.codechef.com/users/aclaputra">>></a></td>
-        </tr>
-          <td>Code Forces</td>
-          <td><a href="https://codeforces.com/profile/aclaputra">>></a></td>
-        </tr>
 <!--           </tr>
           <td>Kaggle</td>
           <td><a href="https://kaggle.com/aclaputra">>></a></td>
         </tr> -->
-        <tr>
-          <td>Linkedin</td>
-          <td><a href="https://www.linkedin.com/in/aclaputra">>></a></td>
         </tr>
       </table>
       <img src="https://komarev.com/ghpvc/?username=Aclaputra&style=flat-square&color=blue" alt="visitor-counters"/>
     </td>
     <td valign="top">
       <img src="https://c.tenor.com/gyBPvQwYfB0AAAAC/tonari-no.gif" width="300"/>
-<!--       <img src="https://discord-readme-badge.vercel.app/api?id=569945702889685004" height="100"/> -->
+<!--       <img src="https://discord-readme-badge.vercel.app/api?id=569945702889685004" height="50"/> -->
     </td>
   </tr>
 </table>
@@ -103,9 +106,9 @@ I'm Acla from Tangerang,Indonesia. a college student passionates about programmi
 <!-- Usually I'm active in my github, I like do Open sourcing, Competitive programming, Data Structures & Algorithms kind of stuff. now i'm in contributing building Startups both in Indonesia and United States. -->
   
 
-<div align="center">
+<!-- <div align="center">
   <img src = "https://metrics.lecoq.io/Aclaputra?template=classic&config.timezone=Asia%2FJakarta" alt = "Metrics">
     <img src ="https://metrics.lecoq.io/aclaputra?template=terminal&base.community=0&base.metadata=0&languages=1&achievements=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FJakarta" width="350" alt = "Metrics">
-</div>
+</div> -->
 
 
