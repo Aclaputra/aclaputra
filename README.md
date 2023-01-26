@@ -1,4 +1,4 @@
-<h1 align="center">Hi, Nice to Meet You 👋💻</h1>
+
 <ul align="center" style="list-style: none;">
   <ol>Participated in : </ol>
   <ol>Google Kickstart Round H 2022</ol>
@@ -6,6 +6,7 @@
   <ol>Code Run 2022</ol>
   <hr>
 <ul>
+<h1 align="center">Hi, Nice to Meet You 👋💻</h1>
 <!-- <p>Hi, welcome to my Todolist account.</p> -->
 <!-- <div align="right">
   <img src="https://komarev.com/ghpvc/?username=Aclaputra&style=flat-square&color=blue" alt="visitor-counters"/>
