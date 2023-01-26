@@ -1,5 +1,11 @@
 <h1 align="center">Hi, Nice to Meet You 👋💻</h1>
-<p align="center">One of my CP certificate that i proud of <a href="https://codingcompetitions.withgoogle.com/kickstart/certificate/summary/00000000008caba4">Google Kickstart Round H 2022</a></p>
+<ul align="center" style="list-style: none;">
+  <ol>Participated in : </ol>
+  <ol>Google Kickstart Round H 2022</ol>
+  <ol>Shopee Code League 2022</ol>
+  <ol>Code Run 2022</ol>
+  <hr>
+<ul>
 <!-- <p>Hi, welcome to my Todolist account.</p> -->
 <!-- <div align="right">
   <img src="https://komarev.com/ghpvc/?username=Aclaputra&style=flat-square&color=blue" alt="visitor-counters"/>
