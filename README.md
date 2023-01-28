@@ -79,11 +79,13 @@ I'm Acla from Tangerang,Indonesia. a college student passionates about programmi
   </tr>
   <tr>
 <!--     <img src="https://media.tenor.com/bDuQcsqo5DEAAAAd/nier-automata.gif"/> -->
-     <img src="https://64.media.tumblr.com/8a70b31699226a20e511a6b7c1ab1168/76c1e75417893134-39/s540x810/56cc60a83083c60e34381fc9a151ba964c53ee43.gifv"/>
+<!--      <img src="https://64.media.tumblr.com/8a70b31699226a20e511a6b7c1ab1168/76c1e75417893134-39/s540x810/56cc60a83083c60e34381fc9a151ba964c53ee43.gifv"/> -->
+  
   </tr>
 </table>
   
-  
+  <img src="https://media.tenor.com/MfSqCmLC2DwAAAAd/kaneki-touka.gif" width="300"/>
+  <p align="center">what am i doing all this time</p>
 </div>
 
 <!-- ## ... -->
