@@ -85,7 +85,7 @@ I'm Acla from Tangerang,Indonesia. a college student passionates about programmi
 </table>
   
   <img src="https://media.tenor.com/MfSqCmLC2DwAAAAd/kaneki-touka.gif" width="300"/>
-  <p align="center">what am i doing all this time</p>
+  <p align="center">was blinded by greed.</p>
 </div>
 
 <!-- ## ... -->
