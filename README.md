@@ -121,9 +121,9 @@ I'm Acla from Tangerang,Indonesia. a college student passionates about programmi
 <hr>
 <div align="center" style="padding-right: 30px;">
   <ul align="center" style="list-style: none;">
-    <ol>Participated in : </ol>
-    <ol>Google Kickstart Round H 2022</ol>
-    <ol>Shopee Code League 2022</ol>
-    <ol>Code Run 2022</ol>
+    Participated in :</br>
+    Google Kickstart Round H 2022</br>
+    Shopee Code League 2022</br>
+    Code Run 2022</br>
   <ul>
 </div>
