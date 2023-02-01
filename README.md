@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi, Nice to Meet You 👋💻</h1>
+<!-- <h1 align="center">Hi, Nice to Meet You 👋💻</h1> -->
 <!-- <p>Hi, welcome to my Todolist account.</p> -->
 <!-- <div align="right">
   <img src="https://komarev.com/ghpvc/?username=Aclaputra&style=flat-square&color=blue" alt="visitor-counters"/>
@@ -13,9 +13,17 @@ I'm Acla from Tangerang,Indonesia. a college student passionates about programmi
 <!-- ![Metrics](https://metrics.lecoq.io/Aclaputra?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&isocalendar=1&isocalendar.duration=half-year&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&achievements.ignored=forker%2C%20deployer%2C%20reviewer%2C%20maintainer%2C%20contributor%2C%20influencer%2C%20stargazer%2C%20member%2C%20follower%2C%20reviewer&config.timezone=Asia%2FJakarta)
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Aclaputra&langs_count=10&theme=radical&hide=html" alt = "Top Langs"> -->
 
-
-
+<div align="center" style="padding-right: 30px;">
+  <ul align="center" style="list-style: none;">
+    Participated in :</br>
+    Google Kickstart Round H 2022</br>
+    Shopee Code League 2022</br>
+    Code Run 2022</br>
+  <ul>
+</div>
+<hr>
 <div align="center">
+
 <!--   <p>Letsgoo.</p> -->
 <!--   <p>Capstone done for now, Time to focus on my Job to pay my Living expenses. (not financially stable yet)</p> -->
 <!--   <p>Life is a game. Play the game.</p> -->
@@ -118,12 +126,4 @@ I'm Acla from Tangerang,Indonesia. a college student passionates about programmi
   <img src = "https://metrics.lecoq.io/Aclaputra?template=classic&config.timezone=Asia%2FJakarta" alt = "Metrics">
     <img src ="https://metrics.lecoq.io/aclaputra?template=terminal&base.community=0&base.metadata=0&languages=1&achievements=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FJakarta" width="350" alt = "Metrics">
 </div> -->
-<hr>
-<div align="center" style="padding-right: 30px;">
-  <ul align="center" style="list-style: none;">
-    Participated in :</br>
-    Google Kickstart Round H 2022</br>
-    Shopee Code League 2022</br>
-    Code Run 2022</br>
-  <ul>
-</div>
+
