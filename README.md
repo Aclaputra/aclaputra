@@ -42,7 +42,7 @@ I'm Acla from Tangerang,Indonesia. a college student passionates about programmi
     <td valign="top">
       <table>
         <tr>
-          <td><img src="https://discord-readme-badge.vercel.app/api?id=569945702889685004" width="400"/></td>
+          <td><img src="https://discord-readme-badge.vercel.app/api?id=569945702889685004" width="350"/></td>
           <td></td>
         </tr>
         <tr>
