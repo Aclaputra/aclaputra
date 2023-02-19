@@ -93,8 +93,8 @@ I'm Acla from Tangerang,Indonesia. a college student passionates about programmi
   </tr>
 </table>
   
-  <img src="https://pa1.narvii.com/5584/cf8d83af4e3a8ab73cc466466a56064b02dc9963_hq.gif" width="300"/>
-  <p align="center">should i be negative or positive..</p>
+  <!-- <img src="https://pa1.narvii.com/5584/cf8d83af4e3a8ab73cc466466a56064b02dc9963_hq.gif" width="300"/>
+  <p align="center">should i be negative or positive..</p> -->
 </div>
 
 <!-- ## ... -->
