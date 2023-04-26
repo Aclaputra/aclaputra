@@ -1,6 +1,6 @@
 <h1>About Me</h1>
 <p>An Independent Developer born in famous economic real estate background family.<br> 
-Four years no contact. On My Journey Creating my own Life Story 🍀</p>
+Four years no contact. On My Journey Creating my own Life Story 🍀. Money just a Bonus !</p>
 <!-- <h1 align="center">Hi, Nice to Meet You 👋💻</h1> -->
 <!-- <p>Hi, welcome to my Todolist account.</p> -->
 <!-- <div align="right">
