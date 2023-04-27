@@ -19,7 +19,9 @@ I'm Acla from Tangerang,Indonesia. a college student passionates about programmi
     <h2>Certified Participating in</h2>
     <img height="55" src="https://seeklogo.com/images/S/shopee-logo-9143622F5F-seeklogo.com.png"/>&nbsp;&nbsp;
     <img height="50" src="https://www.freepnglogos.com/uploads/google-logo-png/google-logo-png-google-sva-scholarship-20.png"/> &nbsp;&nbsp;
-    <img height="60" src="https://algobash.com/assets/images/coderun/code-run-hero-logo.png"/></br>
+    <img height="60" src="https://algobash.com/assets/images/coderun/code-run-hero-logo.png"/>&nbsp;&nbsp;
+    <img height="60" src="https://codegoda.io/wp-content/uploads/2021/06/codegoda-footerlogo.png"/>
+    </br>
   <ul>
    * Shopee Code League 2022 (The Topians Leader) * Google Kickstart Round H 2022 * Code Run 2022 *
 </div>
