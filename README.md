@@ -23,7 +23,7 @@ I'm Acla from Tangerang,Indonesia. a college student passionates about programmi
     <img height="60" src="https://codegoda.io/wp-content/uploads/2021/06/codegoda-footerlogo.png"/> -->
     </br>
   <ul>
-   * Write Games in Go, Java, C++, Lua Scripting * Tried Godot & Unity and it feels to Goyim * Aspiring Indie Game Dev * Writing Custom Engine Privately
+   * Write Games in Go, Java, C++, Lua Scripting * Tried Godot & Unity and it feels too Goyim * Aspiring Indie Game Dev * Writing Custom Engine Privately
 </div>
 <hr>
 <div align="center">
