@@ -16,14 +16,14 @@ I'm Acla from Tangerang,Indonesia. a college student passionates about programmi
 
 <div align="center" style="padding-right: 30px;">
   <ul align="center" style="list-style: none;">
-    <h2>Certified Participating in</h2>
-    <img height="55" src="https://seeklogo.com/images/S/shopee-logo-9143622F5F-seeklogo.com.png"/>&nbsp;&nbsp;
-    <img height="50" src="https://www.freepnglogos.com/uploads/google-logo-png/google-logo-png-google-sva-scholarship-20.png"/> &nbsp;&nbsp;
+    <h2>A Software Engineer at Bank with his Hobbies & Dreams.</h2>
+    <img height="250" src="https://i.pinimg.com/736x/35/a4/c6/35a4c68cba6f9289c1a1f1ed4c9038c2.jpg"/>&nbsp;&nbsp;
+    <!-- <img height="50" src="https://www.freepnglogos.com/uploads/google-logo-png/google-logo-png-google-sva-scholarship-20.png"/> &nbsp;&nbsp;
     <img height="60" src="https://algobash.com/assets/images/coderun/code-run-hero-logo.png"/>&nbsp;&nbsp;
-    <img height="60" src="https://codegoda.io/wp-content/uploads/2021/06/codegoda-footerlogo.png"/>
+    <img height="60" src="https://codegoda.io/wp-content/uploads/2021/06/codegoda-footerlogo.png"/> -->
     </br>
   <ul>
-   * Shopee Code League 2022 (The Topians Leader) * Google Kickstart Round H 2022 * Code Run 2022 *
+   * Write Games in Go, Java, C++, Lua Scripting * Tried Godot & Unity and it feels to Goyim * Aspiring Indie Game Dev * Writing Custom Engine Privately
 </div>
 <hr>
 <div align="center">
@@ -49,14 +49,18 @@ I'm Acla from Tangerang,Indonesia. a college student passionates about programmi
           <td></td>
         </tr>
         <tr>
-          <td>youtube.com/acladeveloper</td>
+          <td>Itch Io</td>
+          <td><a href="https://twilightcat.itch.io/">>></a></td>
+        </tr>
+        <tr>
+          <td>Youtube</td>
           <td><a href="https://youtube.com/acladeveloper">>></a></td>
         </tr>
         <tr>
           <td>Linkedin</td>
           <td><a href="https://www.linkedin.com/in/aclaputra">>></a></td>
         </tr>
-        <tr>
+        <!-- <tr>
           <td>Code Chef</td>
           <td><a href="https://www.codechef.com/users/aclaputra">>></a></td>
         </tr>
@@ -75,7 +79,7 @@ I'm Acla from Tangerang,Indonesia. a college student passionates about programmi
         <tr>
           <td>Leet Code</td>
           <td><a href="https://leetcode.com/acla/">>></a></td>
-        </tr>
+        </tr> -->
 <!--           </tr>
           <td>Kaggle</td>
           <td><a href="https://kaggle.com/aclaputra">>></a></td>
