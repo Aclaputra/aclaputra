@@ -16,7 +16,7 @@ I'm Acla from Tangerang,Indonesia. a college student passionates about programmi
 
 <div align="center" style="padding-right: 30px;">
   <ul align="center" style="list-style: none;">
-    <h2>Software Engineer at Bank with his Hobbies & Dreams.</h2>
+    <h2>Software Engineer at Bank with his Childhood Hobbies & Dreams.</h2>
     <img height="250" src="https://i.pinimg.com/736x/35/a4/c6/35a4c68cba6f9289c1a1f1ed4c9038c2.jpg"/>&nbsp;&nbsp;
     <!-- <img height="50" src="https://www.freepnglogos.com/uploads/google-logo-png/google-logo-png-google-sva-scholarship-20.png"/> &nbsp;&nbsp;
     <img height="60" src="https://algobash.com/assets/images/coderun/code-run-hero-logo.png"/>&nbsp;&nbsp;
