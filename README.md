@@ -49,7 +49,7 @@ I'm Acla from Tangerang,Indonesia. a college student passionates about programmi
           <td></td>
         </tr>
         <tr>
-          <td>Itch Io</td>
+          <td>Twilight Cat - Itch Io</td>
           <td><a href="https://twilightcat.itch.io/">>></a></td>
         </tr>
         <tr>
